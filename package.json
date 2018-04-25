@@ -1,0 +1,20 @@
+{
+  "name": "telegramm-bot",
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "lodash": "^4.17.5",
+    "node-telegram-bot-api": "^0.30.0",
+    "style-loader": "^0.20.3"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "scripts": {
+    "start": "nodemon inex.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
